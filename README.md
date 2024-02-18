@@ -14,7 +14,7 @@ This project is an exploration into detecting humor within texts through Natural
 
 - **Comprehensive Documentation:** For a detailed account of the project's methodologies, modifications, and findings, refer to the included PDF in the repository. This document offers an in-depth exploration of the project's background, implementation details, and the rationale behind key decisions.
 
-- **Academic Context:** This project was undertaken as part of a school assignment at IE University in 2023, showcasing the practical application of NLP techniques and theories in an academic setting.
+- **Academic Context:** This project was undertaken as part of a school project at IE University in 2023, showcasing the practical application of NLP techniques and theories in an academic setting.
 
 The modifications to the ColBERT model and the adjustments in the embedding space were made with the dual objectives of maintaining semantic accuracy and enhancing computational efficiency. These changes reflect our commitment to achieving remarkable results in humor detection while addressing the challenges of large-scale NLP model training.
 
