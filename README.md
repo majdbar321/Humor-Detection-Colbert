@@ -87,6 +87,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## References
 
-- Original [ColBERT model](https://arxiv.org/abs/2004.12832) paper.
+- Original [ColBERT model](https://arxiv.org/abs/2004.12765) paper.
 - Dataset: [200K SHORT TEXTS FOR HUMOR DETECTION](https://arxiv.org/abs/2004.12765)
 - [BERT](https://huggingface.co/gaunernst/bert-tiny-uncased) Model used
