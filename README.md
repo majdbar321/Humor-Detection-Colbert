@@ -45,6 +45,7 @@ This project can be run using Jupyter notebooks for an interactive approach or v
 2. Open `training.ipynb` to train the model using the extracted embeddings.
 
 These notebooks provide step-by-step instructions and are ideal for understanding the process and making adjustments interactively.
+Paths have to be specified and set before running the code in the notebooks.
 
 
 
@@ -89,3 +90,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## References
 
 - Original [ColBERT model](https://arxiv.org/abs/2004.12832) paper.
+- Dataset: [200K SHORT TEXTS FOR HUMOR DETECTION](https://arxiv.org/abs/2004.12765)
+- [BERT](https://huggingface.co/gaunernst/bert-tiny-uncased) Model used
