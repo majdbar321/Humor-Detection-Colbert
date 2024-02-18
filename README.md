@@ -26,12 +26,7 @@ For more information and a detailed explanation of our approach, please refer to
 To install the necessary components for this project, follow these steps:
 ``` bash
 git clone https://github.com/yalsaffar/S-COLBERT
-```
-``` bash
 cd S-COLBERT
-```
-
-``` bash
 pip install -r requirements.txt
 ```
 
