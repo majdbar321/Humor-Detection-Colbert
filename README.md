@@ -79,9 +79,7 @@ Our simplified ColBERT model, referred to as S-ColBERT, demonstrates impressive 
 
 Future enhancements include verifying dataset legitimacy, exploring additional preprocessing techniques, investigating other humor theories, expanding the model to longer texts, and adapting the model for different languages. Adjustments to the model architecture could also improve performance.
 
-## Contributors
 
-[List of contributors]
 
 ## License
 
