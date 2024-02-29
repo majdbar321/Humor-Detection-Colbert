@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project is an exploration into detecting humor within texts through Natural Language Processing (NLP), focusing on a simplified implementation of the [ColBERT model](https://arxiv.org/abs/2004.12832). It dives deep into linguistic and humor theories, especially the Semantic Script Theory of Humor (SSTH) and incongruity theory, to craft an effective humor detection system. By analyzing and contrasting the capabilities and limitations of several state-of-the-art models such as ColBERT, XGBoost, and XLNet, our goal is to develop advanced systems that grasp the subtle semantic nuances and contextual complexities of humor.
+This project is an exploration into detecting humor within texts through Natural Language Processing (NLP), focusing on a simplified implementation of the [ColBERT model](https://arxiv.org/abs/2004.12765). It dives deep into linguistic and humor theories, especially the Semantic Script Theory of Humor (SSTH) and incongruity theory, to craft an effective humor detection system. By analyzing and contrasting the capabilities and limitations of several state-of-the-art models such as ColBERT, XGBoost, and XLNet, our goal is to develop advanced systems that grasp the subtle semantic nuances and contextual complexities of humor.
 
 ### Key Highlights:
 
